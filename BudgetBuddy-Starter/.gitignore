@@ -1,0 +1,16 @@
+# Secrets
+.env
+.env.*
+!.env.example
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+# Node
+node_modules/
+dist/
+# Editors / OS
+.vscode/
+.DS_Store
