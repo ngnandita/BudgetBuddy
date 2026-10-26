@@ -1,16 +1,11 @@
-# Secrets
+node_modules/
+dist/
 .env
 .env.*
 !.env.example
-# Python
 .venv/
 venv/
 __pycache__/
-*.py[cod]
-*.sqlite3
-# Node
-node_modules/
-dist/
-# Editors / OS
+*.pyc
 .vscode/
 .DS_Store
